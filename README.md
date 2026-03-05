@@ -1,4 +1,4 @@
-🛒 Loja Fullstack
+🛒 Loja
 
 Projeto de e-commerce desenvolvido com React + Node.js + PostgreSQL.
 Possui sistema de login, cadastro, carrinho funcional, upload de imagens e pedidos.
